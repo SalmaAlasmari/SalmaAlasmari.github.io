@@ -21,7 +21,7 @@ repository               : "salmaalasmari/salmaalasmari.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "123.jpg"
   name             : "Salma Alasmari"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
