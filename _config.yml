@@ -172,7 +172,7 @@ collections:
   Microprocessor and Assembly Language:
     output: true
     permalink: /:collection/:path/
-  Others:
+  Announcements:
     output: true
     permalink: /:collection/:path/
 
@@ -227,9 +227,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: Others
+      type: Announcements
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
