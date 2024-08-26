@@ -7,17 +7,14 @@
 main:
   - title: "CV"
     url: /CV/
-
-  - title: "Talks"
-    url: /talks/    
-
+    
   - title: "Microprocessor and Assembly Language"
     url: /Microprocessor_and_Assembly_Language/    
     
   - title: "Artificial Intelligence"
     url: /Artificial_Intelligence/
         
-  - title: "BImage Processing"
+  - title: "Image Processing"
     url: /Image_Processing/
     
   - title: "Announcements"
