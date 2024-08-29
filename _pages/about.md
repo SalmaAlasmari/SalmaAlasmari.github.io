@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 Salma Faiz AlAsmari
-
 Lecturer of Computer Science
 ======
 
