@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+
+
 Salma Faiz AlAsmari
-Lecturer of Computer Science
 ======
 
+Lecturer of Computer Science
 
 Education:
 ======
