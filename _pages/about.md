@@ -6,11 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-
-
-======
+Salma Faiz Alasmari
+=
 
 Lecturer of Computer Science
 
