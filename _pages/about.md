@@ -5,7 +5,6 @@
 
 
 Salma Faiz Alasmari
-=
 
 Lecturer of Computer Science
 
