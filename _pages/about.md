@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 
+Lecturer in Computer Science
 Education:
 ======
 1. 2009, Bachelor degree in Computer Science, Umm Al-Qura University.Makkah. “Excellent with Honors”. 
