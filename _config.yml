@@ -163,6 +163,9 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
+  Timetable:
+    output: true
+    permalink: /:collection/:path/
   Artificial Intelligence:
     output: true
     permalink: /:collection/:path/
@@ -182,7 +185,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: Announcements
     values:
       layout: single
       author_profile: true
@@ -190,13 +193,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  
   # _teaching
   - scope:
       path: ""
@@ -209,7 +206,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: Image Processing
+      type: Timetable
     values:
       layout: single
       author_profile: true
@@ -218,7 +215,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: Microprocessor and Assembly Language
+      type: Image Processing
     values:
       layout: single
       author_profile: true
@@ -227,9 +224,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: Announcements
+      type: Microprocessor and Assembly Language
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
 
